@@ -1,4 +1,4 @@
-package joachim.project;
+package main.java.joachim.project;
 import joachim.project.display.Screen;
 
 import javax.swing.*;
